@@ -20,8 +20,8 @@ This project aims to predict **daily rainfall probability** based on historical 
 ## 📂 Project Structure  
 ```bash
 📦 Weather-Forecasting
-│── data/                  # Raw & Processed Datasets
-│── notebooks/             # Jupyter Notebooks for EDA, Data cleaning, feature engineering, & Model Training
+│── weather_data.csv       # Raw & Processed Datasets
+│── Intellihack_q1.ipynb   # Jupyter Notebooks for EDA, Data cleaning, feature engineering, & Model Training
 │── models/                # Saved ML Models
 │── requirements.txt       # Required Python Packages
 │── README.md              # Project Documentation
