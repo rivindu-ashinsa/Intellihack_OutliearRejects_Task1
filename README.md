@@ -52,6 +52,7 @@ Ensure you have **Python 3.8+** installed. Then, install the required dependenci
 
 ```bash
 pip install -r requirements.txt
+```
 
 
 # ⚙️ System Architecture  
